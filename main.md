@@ -7,8 +7,11 @@ When the user gives you a list of companies and services, follow these steps in 
 ---
 
 ### STEP 1 — LOAD THE DATA
-The user will provide a CSV file with these fields:
-company_name, owner, owner_email, nic, sales
+A file called `companies.csv` is available in this project. 
+It contains the following fields: company_name, owner, owner_email, nic, sales.
+
+At the start of every run, read this file to get the list of companies to process.
+Do not ask the user to provide or paste company data — it is already in the project.
 
 Parse it and confirm how many companies you loaded.
 
