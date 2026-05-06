@@ -1,0 +1,21 @@
+{{city}}, {{date}}
+ 
+Dear {{owner}},
+ 
+We are reaching out to you as the owner of {{company_name}} because we believe there is a meaningful opportunity for us to work together.
+ 
+{{service_block}}
+ 
+We have worked with companies of similar profile and size across the region, and we are confident we can bring tangible value to your operations. Given your business volume, we believe a conversation would be well worth your time.
+ 
+We would love to schedule a brief call at your convenience to explore this further. Please feel free to contact us directly at {{sender_email}} or reply to this letter.
+ 
+We look forward to hearing from you.
+ 
+Warm regards,
+ 
+{{sender_name}}
+{{sender_title}}
+{{sender_company}}
+{{sender_email}}
+{{sender_phone}}
