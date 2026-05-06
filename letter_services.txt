@@ -1,0 +1,23 @@
+## SERVICE: cleaning
+ 
+We understand that {{company_name}} is active in the cleaning services sector. Our company specialises in providing cleaning supplies, equipment, and logistics support to businesses like yours. Whether you are looking to optimise your supply chain, reduce costs on consumables, or scale your operations more efficiently, we have solutions tailored to the cleaning industry that could make a real difference to your day-to-day.
+ 
+---
+ 
+## SERVICE: horses
+ 
+We understand that {{company_name}} is involved in the equestrian world. Our company works with stables, equestrian centres, and horse-related businesses to provide feed supply, veterinary product logistics, and equipment sourcing. We know this is a specialised field, and we have the expertise and network to support the specific needs that come with it.
+ 
+---
+ 
+## SERVICE: mobility
+ 
+We understand that {{company_name}} operates in the mobility or transportation sector. Our company partners with businesses in this space to support fleet management, infrastructure supply, and operational efficiency. As mobility demands continue to evolve, we help companies like yours stay ahead with the right tools and partnerships in place.
+ 
+---
+ 
+## SERVICE: veggie oil
+ 
+We understand that {{company_name}} is involved in the vegetable oil sector, whether in production, distribution, or processing. Our company works with businesses across this supply chain to provide reliable sourcing, logistics coordination, and processing support. We are well positioned to help you improve margins and streamline operations in this competitive market.
+ 
+---
